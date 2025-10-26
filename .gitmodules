@@ -4,3 +4,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/TechSymphony/j2ee-frontend
+[submodule "j2ee-backend"]
+	path = j2ee-backend
+	url = https://github.com/TechSymphony/j2ee-backend
+[submodule "j2ee-frontend"]
+	path = j2ee-frontend
+	url = https://github.com/TechSymphony/j2ee-frontend
